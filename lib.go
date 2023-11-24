@@ -1,3 +1,4 @@
+// Package testmod do sth
 package testmod
 
 import (

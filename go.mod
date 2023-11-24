@@ -1,3 +1,3 @@
-module github.com/liuhao.x86/testmod
+module github.com/liuhaoxd/testmod
 
 go 1.21
